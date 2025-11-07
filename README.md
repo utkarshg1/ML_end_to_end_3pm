@@ -7,3 +7,7 @@
 ```cmd
 streamlit run app.py
 ```
+
+```cmd
+uv add -r requirements.txt
+```
